@@ -140,7 +140,7 @@ button:hover{
     }
 
     .main_container{
-        width: 54%;
+        width: 600px;
         height: 410px;
         display: flex;
         border-radius: 15px;
