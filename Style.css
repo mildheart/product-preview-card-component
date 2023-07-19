@@ -132,10 +132,16 @@ button:hover{
 
 @media screen and (min-width: 482px) {
 
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
     .main_container{
         width: 54%;
         height: 410px;
-        margin: 25%;
         display: flex;
         border-radius: 15px;
         
